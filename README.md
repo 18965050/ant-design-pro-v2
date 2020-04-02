@@ -1,3 +1,7 @@
+## 备注
+* **package.json做了些调整,方便 npm install正确运行**
+
+
 English | [简体中文](./README.zh-CN.md) | [Русский](./README.ru-RU.md) | [Türkçe](./README.tr-TR.md) | [日本語](./README.ja-JP.md) | [Français](./README.fr-FR.md)
 
 <h1 align="center">Ant Design Pro</h1>
